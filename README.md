@@ -1,4 +1,4 @@
-# Subscription Business Analytics
+# Subscription Analytics — Retention, Churn & Acquisition
 
 Synthetic subscription analysis using Python-generated data, SQL modeling, and a Power BI reporting prototype.
 
